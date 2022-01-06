@@ -47,6 +47,20 @@ h1{
     float: right;
 }
 
+.half-width-img-creative{
+    width: 100%;
+}
+
+.width-creative{
+    width: 45%;
+    padding-left: 50px;
+    padding-top: 8%;
+    padding-right: 15%;
+    float: right;
+    width: 46%;
+    
+}
+
 .thrird-half-width{
     width: 46%;
     padding-right: 22%;
