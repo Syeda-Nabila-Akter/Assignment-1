@@ -5,7 +5,6 @@ body{
     margin: 0;
 }
 
-
 .flexible-container{
     display: flex;
 }
@@ -54,4 +53,58 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+/* .portfoliosec{
+    width: 100%;
+    margin: auto;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: #7395AE;
+} */
+
+.row{
+    margin-left: 7%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.col-1{width: 29%;}
+
+.box{
+    padding: 20px 10px 20px 10px;
+    /* text-align: center;     */
+    margin: 24px;
+    /* padding: 30px 18px 34px 18px; */
+    border-radius: 20px;
+    /* background-color: whitesmoke; */
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .15),
+    0 2px 3px 0 rgba(0, 0, 0, .1);
+}
+
+.section-title{
+    font-size: 42px;
+    text-align: center;
+}
+
+.illustrator-size{
+    height: 120px;
+    width: auto;
+    align-items: left;
+}
+
+#sky-blue{
+    background-color: rgb(233, 241, 243);
+}
+
+#baby-pink{
+    background-color:rgb(241, 228, 241);
+}
+
+#light-orange{
+    background-color: rgb(245, 234, 231);
+}
+
+
 
